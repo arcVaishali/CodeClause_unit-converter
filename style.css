@@ -1,0 +1,174 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+} 
+
+.heading{
+    width:100%;
+    padding:20px;
+    background-color: aqua;
+    padding:20px;
+    border-radius:5px;
+    box-shadow:2px 2px 2px 2px rgb(177, 177, 243);
+}
+.heading h1 a{
+    color:black;
+    text-decoration: none;
+    padding:10px;
+}
+.heading h1 a:hover{
+    border-radius:3px;
+    box-shadow:2px 2px 2px 2px rgb(177, 177, 243);
+}
+
+.row{
+    margin:73px 0px 0px 73px;
+    display:inline-flex;
+    flex-direction: row;
+    align-items:baseline;
+}
+.col{
+    display:inline-flex;
+    flex-direction:column;
+    background-color:aqua;
+    padding:20px;
+}
+.list ul{
+    display:inline-flex;
+    flex-direction:row;
+}
+
+/* ----------------------------------------------------- */
+/* ----------------------------------------------------- */
+/* ----------------------------------------------------- */
+/* ----------------------------------------------------- */
+/* ----------------------------------------------------- */
+.list ul .popupClass1{
+    list-style:none;
+    padding:10px;
+    border-radius:4px;
+    box-shadow:2px 2px 2px 2px  rgb(177, 177, 243);
+}
+
+.list ul .popupClass1 a{
+    color:black;
+    text-decoration:none;
+}
+.list ul .popupClass1:hover{
+    background-color: rgba(255, 255, 255, 0.527);
+    border-radius:4px;
+    box-shadow:2px 2px 2px 2px rgba(238, 238, 243, 0.372);
+}
+
+
+/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------- */
+.list ul .popupClass2{
+    list-style:none;
+    padding:10px;
+    border-radius:4px;
+    box-shadow:2px 2px 2px 2px  rgb(177, 177, 243);
+}
+
+.list ul .popupClass2 a{
+    color:black;
+    text-decoration:none;
+}
+.list ul .popupClass2:hover{
+    background-color: rgba(255, 255, 255, 0.527);
+    border-radius:4px;
+    box-shadow:2px 2px 2px 2px rgba(238, 238, 243, 0.372);
+}
+
+
+/* ------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------ */
+.list ul .popupClass3{
+    list-style:none;
+    padding:10px;
+    border-radius:4px;
+    box-shadow:2px 2px 2px 2px  rgb(177, 177, 243);
+}
+
+.list ul .popupClass3 a{
+    color:black;
+    text-decoration:none;
+}
+.list ul .popupClass3:hover{
+    background-color: rgba(255, 255, 255, 0.527);
+    border-radius:4px;
+    box-shadow:2px 2px 2px 2px rgba(238, 238, 243, 0.372);
+}
+
+/* ---------------------------------------------------------------------- */
+/* ---------------------------------------------------------------------- */
+/* ---------------------------------------------------------------------- */
+/* ---------------------------------------------------------------------- */
+
+.list ul .popupClass4{
+    list-style:none;
+    padding:10px;
+    border-radius:4px;
+    box-shadow:2px 2px 2px 2px  rgb(177, 177, 243);
+}
+
+.list ul .popupClass4 a{
+    color:black;
+    text-decoration:none;
+}
+.list ul .popupClass4:hover{
+    background-color: rgba(255, 255, 255, 0.527);
+    border-radius:4px;
+    box-shadow:2px 2px 2px 2px rgba(238, 238, 243, 0.372);
+}
+
+/* --------------------------------------------------------------- */
+/* --------------------------------------------------------------- */
+/* --------------------------------------------------------------- */
+/* --------------------------------------------------------------- */
+
+.list ul .popupClass5{
+    list-style:none;
+    padding:10px;
+    border-radius:4px;
+    box-shadow:2px 2px 2px 2px  rgb(177, 177, 243);
+}
+
+.list ul .popupClass5 a{
+    color:black;
+    text-decoration:none;
+}
+.list ul .popupClass5:hover{
+    background-color: rgba(255, 255, 255, 0.527);
+    border-radius:4px;
+    box-shadow:2px 2px 2px 2px rgba(238, 238, 243, 0.372);
+}
+
+/* ------------------------------------------------------ */
+/* ------------------------------------------------------ */
+/* ------------------------------------------------------ */
+/* ------------------------------------------------------ */
+
+.list ul .popupClass6{
+    list-style:none;
+    padding:10px;
+    border-radius:4px;
+    box-shadow:2px 2px 2px 2px  rgb(177, 177, 243);
+}
+
+.list ul .popupClass6 a{
+    color:black;
+    text-decoration:none;
+}
+.list ul .popupClass6:hover{
+    background-color: rgba(255, 255, 255, 0.527);
+    border-radius:4px;
+    box-shadow:2px 2px 2px 2px rgba(238, 238, 243, 0.372);
+}
+
